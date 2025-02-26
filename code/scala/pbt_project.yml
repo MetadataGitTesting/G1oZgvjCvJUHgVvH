@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: azfx1tbu.zpuwzewk@w79bro57.com
     createdAt: '2025-02-26 20:36:52'
     configurations:
-      pipelineConfigurations/ronnie.casper/Ms__Traci_BoganIma_KlotzPaul_Gibson/dev:
-        name: dev
-        author: null
-        createdAt: '2025-02-26 20:36:52'
       pipelineConfigurations/ronnie.casper/Ms__Traci_BoganIma_KlotzPaul_Gibson/dev2:
         name: dev2
-        author: null
-        createdAt: '2025-02-26 20:36:52'
-      pipelineConfigurations/ronnie.casper/Ms__Traci_BoganIma_KlotzPaul_Gibson/dev3:
-        name: dev3
         author: null
         createdAt: '2025-02-26 20:36:52'
     basePipeline: 272/pipelines/Ms__Traci_BoganIma_KlotzPaul_Gibson
