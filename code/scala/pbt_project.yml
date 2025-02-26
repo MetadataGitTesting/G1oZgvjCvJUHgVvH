@@ -1,0 +1,74 @@
+name: shani.turner
+description: fresh-thinking
+version: 0.0.1
+author: azfx1tbu.zpuwzewk@w79bro57.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: shaniturner
+  parentArtefactID: azfx1tbuzpuwzewkw79bro57comteam
+  buildSystem: maven
+  author: null
+  createdAt: '2025-02-26 20:36:51'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-02-26 20:36:51'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-02-26T20:36:51.761519Z'
+  name: plibMaven
+  version: 8.9.0-SNAPSHOT
+  id: '186421148'
+  createdAt: '2025-02-26T20:36:51.761519Z'
+  type: plibMaven
+projectDependencies:
+  '272':
+    projectUID: 272
+    projectName: ronnie.casper
+    repositoryPath: gitUri=http://gitserver:3000/dev_xyBxuEUN_team_497/dev_xyBxuEUN_project_272.git&subPath=
+    version: ronnie.casper/3.7.0.828
+    isDefault: false
+    author: null
+    createdAt: '2025-02-26 20:36:51'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/ronnie.casper/Ms__Traci_BoganIma_KlotzPaul_Gibson:
+    author: azfx1tbu.zpuwzewk@w79bro57.com
+    createdAt: '2025-02-26 20:36:52'
+    configurations:
+      pipelineConfigurations/ronnie.casper/Ms__Traci_BoganIma_KlotzPaul_Gibson/dev:
+        name: dev
+        author: null
+        createdAt: '2025-02-26 20:36:52'
+      pipelineConfigurations/ronnie.casper/Ms__Traci_BoganIma_KlotzPaul_Gibson/dev2:
+        name: dev2
+        author: null
+        createdAt: '2025-02-26 20:36:52'
+      pipelineConfigurations/ronnie.casper/Ms__Traci_BoganIma_KlotzPaul_Gibson/dev3:
+        name: dev3
+        author: null
+        createdAt: '2025-02-26 20:36:52'
+    basePipeline: 272/pipelines/Ms__Traci_BoganIma_KlotzPaul_Gibson
